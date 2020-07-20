@@ -1,0 +1,124 @@
+
+        body{
+            font-family: 'Kanit', sans-serif;
+            background-image: url('bg1.png');
+        }
+        .bar1{
+            color: white;
+            margin: auto;
+            position: absolute;
+            top: 40px;
+            left: 400px;
+        }
+        .bar2{
+            color: white;
+            margin: auto;
+            position: absolute;
+            top: 40px;
+            left: 600px;
+        }
+        .bar3{
+            color: white;
+            margin: auto;
+            position: absolute;
+            top: 40px;
+            left: 800px;
+        }
+        .bar4{
+            color: white;
+            margin: auto;
+            position: absolute;
+            top: 40px;
+            left: 1000px;
+        }
+        .bar5{
+            color: white;
+            margin: auto;
+            position: absolute;
+            top: 40px;
+            left: 1300px;
+        }
+        
+        .head{    
+            position: absolute;
+            bottom: auto;
+            color: white;
+            margin: auto;
+        }
+        .content{
+            font-size: 30px;
+            color: white;
+            text-align: right;
+            margin: auto;
+            top: 8px;
+            left: 16px;
+            text-shadow: black;
+            
+        }
+        .center{
+            margin: auto;
+            text-align: center;
+            padding: 10px;
+        }
+        .contain{
+            position: relative;
+            text-align: right;
+            background-image: url("pic/bg1.png");
+            background-size: cover;
+            height: 100vh;
+            display: grid;
+            align-content: center;
+            justify-content: center;
+            opacity: 0.5;
+        }
+        .topleft {
+            position: absolute;
+            top: 8px;
+            left: 16px;
+            font-size: 18px;
+        }
+
+        .text-block {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: rgb(36, 101, 185);
+            color: white;
+            padding-left: 20px;
+            padding-right: 20px;
+          }
+        .wallpaper{
+            text-align: right;
+            background-image: url(https://hipwallpaper.com/view/Ro54dB);
+            background-size: cover;
+            height: 100vh;
+            display: grid;
+            align-content: center;
+            justify-content: center;
+            opacity: 0.5;
+        }
+        .cen{
+            color: white;
+            margin: auto;
+            position: absolute;
+            top: 250px;
+            left: 180px;
+            text-align: center;
+        }
+        .stroke {
+            
+            -webkit-text-stroke-width: 2.4px;
+            -webkit-text-stroke-color: #4f261d;
+            -webkit-text-fill-color: #d9ad27;
+            letter-spacing: 19px;
+            font-family: Impact, Charcoal, sans-serif;
+            text-shadow: 4px 4px 9px #000000;
+        }
+        .copy{
+            position: fixed;
+            bottom: 1px;
+            left: 1px;
+            color: white;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
